@@ -1,0 +1,12 @@
+Resolusi untuk 1 tahun kedepan
+
+* mengerti tentang GIT & GITHUB 
+* mengerti tentang restAPI 
+* rajin olahraga
+* tidur dibawah jam 10
+* bisa menggunakan frameWork javascript
+  - react
+* mengerti tentang databases
+  - mySQL
+* bisa membuat website fortofolio yang menarik
+* bisa membuat full-stack website onlineShop 

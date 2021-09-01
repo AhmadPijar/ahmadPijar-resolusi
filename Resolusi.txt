@@ -11,3 +11,4 @@ Resolusi untuk 1 tahun kedepan
 * bisa membuat website fortofolio yang menarik
 * bisa membuat full-stack website onlineShop 
 * mampu mengerti dan memahami NODEjs
+* bisa membuat aplikasi kalkulator sederhana
